@@ -1,6 +1,6 @@
 ## About
 
-This is my first project in React, a simple task tracker. The build tool for setting up the development environment was [ViteJS](https://vitejs.dev/).
+This is my first project in React, a simple task tracker. 
 
 
 ## Features
