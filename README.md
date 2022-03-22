@@ -1,6 +1,6 @@
 ## About
 
-This is my first project in React, a simple task tracker. 
+This is my first project in React, a simple task manager that I use whenever I have to sketch the steps for developing a project. Recommended to be opened with Chrome or Edge.
 
 
 ## Features
@@ -11,4 +11,4 @@ This is my first project in React, a simple task tracker.
 
 
 
-Thanks to [Cassidy Williams](https://twitter.com/cassidoo/) for the idea. She made the electron-based desktop app called [todometer](https://cassidoo.github.io/todometer/). 
+Thanks to [Cassidy Williams](https://twitter.com/cassidoo/) for the idea. She made the desktop app called [todometer](https://cassidoo.github.io/todometer/). 
